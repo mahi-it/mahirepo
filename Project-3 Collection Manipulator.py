@@ -12,7 +12,7 @@ while True:
     print("5. Display Subject Offered")
     print("6. Exit")
 
-    choice = int(input("Enter your choice: "))
+    choice = int(input("Enter your choice : "))
 
     match choice:
 
