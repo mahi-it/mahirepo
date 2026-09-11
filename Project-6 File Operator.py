@@ -9,7 +9,7 @@ while(True):
     print("4.Delete All Entries")
     print("5.Exit")
     
-    option=int(input("User Input : "))
+    option=int(input("User Input: "))
 
     match option:
         case 1:
